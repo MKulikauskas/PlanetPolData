@@ -3,3 +3,5 @@ Sources:
 
 Notes:
 1. All four Galilean moons included
+
+Other moons listed in individual folders
